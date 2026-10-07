@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.1h | 1 |
+| Week 1 | Tier 1 | 2.33h | 1 |
 
 ## Contents
 
@@ -20,10 +20,12 @@
 
 ### 2026-10-06 — I made my pcb with my own logo on is and leds.
 
-**1.1h**
+**2.33h**
 
 I made my pcb with my own logo on is and leds.
 
 [Timelapse](https://lookout.hackclub.com/api/media/956c335c-8418-4f5d-ba6c-462c75125cb9/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/12024dbb-03ae-45ff-bd0a-a1c7cd90cb54/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/cf6a69fb-edeb-4456-93d7-8fcf1c4c91b5/video.mp4)
